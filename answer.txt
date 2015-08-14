@@ -1,0 +1,6 @@
+Number of random examples generated: 
+5
+
+
+Final Answer:
+Sunny, Warm, Any, Any, Any, Any, 
